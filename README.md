@@ -14,7 +14,8 @@ Project Resources
 
 - See the document "_CTL Database Structure\_2020_" for a list of needed fields and possible table structure.
 - We can also provide some sample data to be used for populating and testing the draft versions of the database.
-....
+  - ....
+  
 Objectives
 
 - Convert existing individual Google Forms and Google Sheets used for CTL event registration and attendance tracking into one user friendly registration system that allows simple front-end access for UMSL faculty and reporting capability for CTL staff.
