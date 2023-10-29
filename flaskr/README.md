@@ -14,8 +14,8 @@ Mac: cmd+shift+p ...
 
 
 ## Use the following links to setup the app in your own environment and to better understand Flask
-1. [Installation]("https://flask.palletsprojects.com/en/3.0.x/installation/")
-2. [Example App]("https://flask.palletsprojects.com/en/3.0.x/quickstart/")
+1. [Installation](https://flask.palletsprojects.com/en/3.0.x/installation/)
+2. [Example App](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
 
 
 
