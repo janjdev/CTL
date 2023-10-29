@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %}Users {% endblock %}</h1>
+    {% for user in users %}
+        <div class='book'>
+            <h3>#{{ user.name }} - {{ user.email }} BY {{ user.name }}</h3>
+            <i><p>({{ user[3] }} pages)</p></i>
+            <p class='review'>{{ user[4] }}</p>
+            <i><p>Add {{ user[5] }}</p></i>
+        </div>
+    {% endfor %}
+{% endblock %}
