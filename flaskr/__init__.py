@@ -23,6 +23,9 @@ def create_app():
     from . import auth
     app.register_blueprint(auth.bp)
 
+    from . import dash
+    app.register_blueprint(dash.bp)
+
     # a simple page that says hello
     @app.route("/")
     def index():

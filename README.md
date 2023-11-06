@@ -4,6 +4,8 @@ CTL Database/Participant tracking Project
 
 **CMP SCI 5500 CTL Database/Participant tracking Project**
 
+## TO RUN LOCALLY ON DEV RUN FROM TERMINAL IN THE MAIN FOLDER - flask --app flaskr run
+
 Overall Explanation
 
 The UMSL Center for Teaching and Learning currently uses individual Google Forms which populate individual Google Sheets for their event and program registrations. Thus each program or event has a separate Google Sheet with the attendees' details. We are often asked for data on faculty participation in our programs or for details on contact hours with faculty. These reports are very cumbersome to generate given our current decentralized way that we track participation. We would like to have one single database that tracks all faculty engagement and participation with the CTL. This would both make reporting easier and make it easier for faculty participants in our programs to see all the program options together in one location.
